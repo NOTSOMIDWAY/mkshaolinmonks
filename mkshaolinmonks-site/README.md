@@ -12,30 +12,6 @@ The first publicly documented reverse-engineering archive for **Mortal Kombat: S
 - 📜 **Research Log** — Every discovery documented chronologically
 - ⚔ **Community Submissions** — Submit your own findings via form
 
-## How to Update
-
-### Adding New Audio Files
-1. Place WAV files in the correct subfolder under `audio/`
-2. Update `assets/js/tracks.js` with new track entries
-3. Commit and push — GitHub Pages auto-deploys
-
-### Adding Research Log Entries
-Edit `pages/research.html` — add a new `.entry` div at the top of the timeline
-
-### Adding Format Documentation
-Edit `pages/formats.html` — add a new tab panel
-
-### Activating the Submit Form
-1. Go to [formspree.io](https://formspree.io) and create a free form
-2. Replace `YOUR_FORM_ID` in `pages/submit.html` with your form ID
-
-## GitHub Pages Setup
-
-1. Push this repo to GitHub: `git remote add origin https://github.com/YOUR_USERNAME/mkshaolinmonks.git`
-2. Go to repo Settings → Pages → Source: Deploy from branch → main → / (root)
-3. Site will be live at `https://YOUR_USERNAME.github.io/mkshaolinmonks`
-
-> **Note:** Audio files (180MB+) are stored in `audio/` — you may want to use Git LFS or host audio on a CDN and update the paths in `tracks.js`
 
 ## Key Discoveries
 

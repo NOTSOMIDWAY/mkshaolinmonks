@@ -1,0 +1,12 @@
+# Large binary files — host separately or use Git LFS
+audio/*.wav
+audio/**/*.wav
+*.WAD
+*.WAE
+*.WAF
+*.WAG
+*.WAH
+*.WAI
+*.WAJ
+*.BIN
+*.ELF

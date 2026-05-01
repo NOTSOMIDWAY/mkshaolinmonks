@@ -1,6 +1,6 @@
 # MK Shaolin Monks Research Archive
 
-**Created by OGmidway** | [Live Site](https://ogmidway.github.io/mkshaolinmonks)
+**Created by OGmidway** | [Live Site](https://notsomidway.github.io/mkshaolinmonks/)
 
 The first publicly documented reverse-engineering archive for **Mortal Kombat: Shaolin Monks (2005)**, built on the **Paradox Engine** by Midway Studios LA.
 
